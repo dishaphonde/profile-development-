@@ -1,0 +1,15 @@
+name: my_profile_app
+description: A Flutter app with a profile page.
+
+# Add SDK constraint to ensure compatibility
+environment:
+  sdk: ">=3.6.0 <4.0.0"  # Specify the Dart SDK version range
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  # Add other dependencies here as needed
+
+
+# Add other Flutter-specific configurations if necessary.
